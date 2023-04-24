@@ -1,0 +1,26 @@
+*{
+    background-image: url("https://i.pinimg.com/originals/2d/93/82/2d9382e4693e1fc5df34c93aec259a90.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+body{
+    padding-left: 100px;
+}
+p{
+    font-size: large;
+ 
+}
+header{
+    background-color: aqua;
+    text-align: center;
+    font-size: large;
+    width: 10%;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin-right: 100px;
+}
