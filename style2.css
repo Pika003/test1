@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 5px 20px 5px 15px;
+    background-color : #99ccff;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+#logo{
+    color: #000d1a;
+    font-weight: 150px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+button{
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #0000ff;
+    border-radius: 5px;
+}
+button:hover{
+    color:  #0000ff;
+    background-color: #ffffff;
+}
